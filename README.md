@@ -1,4 +1,4 @@
-# 🚀 **XSS Scanner Tool - Usage & Installation Guide**
+# 🚀 **XSS Scanner Tool**
 
 
 📝 **Description:**
