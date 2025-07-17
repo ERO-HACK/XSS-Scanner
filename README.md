@@ -11,7 +11,7 @@ if the payload caused an XSS. Results show possible vulnerabilities with URLs an
 Run the scanner script with your target URL.  
 Replace the parameter value you want to test with the keyword `XSS`.  
 Example command: 
-`python main.py --url https://example.com/search?q=XSS.`
+`python main.py --url https://example.com/search?q=XSS.`  
 `python main.py -u https://example.com/search?q=XSS.`
 
 -----------------------------------------------
