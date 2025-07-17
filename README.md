@@ -1,6 +1,6 @@
 # 🚀 **XSS Scanner Tool - Usage & Installation Guide**
 
------------------------------------------------
+
 📝 **Description:**
 This tool automates the scanning of web applications for Cross-Site Scripting (XSS) vulnerabilities. 
 It injects multiple payloads into URL parameters, sends requests, and analyzes the response to detect 
