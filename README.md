@@ -24,8 +24,7 @@ Example command:
 
 -----------------------------------------------
 🛠️ **Author:**  
-`shayan  
-To get this tool, use the @erotools_bot.`
+`SHAYAN, To get this tool, use the @erotools_bot.`
 
 -----------------------------------------------
 ![xxxx](https://github.com/user-attachments/assets/b4e2e20f-aaf6-4e0b-9435-163c9ae76bd8)
